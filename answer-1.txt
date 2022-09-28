@@ -1,0 +1,16 @@
+What does prototyping mean?
+Prototyping basically means to practically implement the findings of a discovery phase in design development. It means to develop a model or a dummy website for a product that is partially functional and gives a great tangible idea of how the product will look and feel after its development. 
+
+ 
+
+Under what circumstances is it beneficial to construct a prototype?
+Prototyping helps a user to–
+
+Shaping your ideas– Prototyping helps in improving the creative process by starting with the idea and iterating that idea over and over until it satisfies your needs. 
+Communicate your ideas for meeting the client’s business objectives– It helps to communicate the idea if it does not exactly meet the client’s business objectives, and you can avoid the complete restructuring of the developed product by just revising the product prototype.
+Coming up with solutions quickly– You and your team can easily collaborate and use the cloud space for designing the prototype together and leave comments and suggestions for fixing the loopholes in the prototype. 
+Building a bridge between the designers and customers– Prototypes help the designers to understand the customer’s tastes and preferences, according to which they slowly realize which product can lure which customer, and improve communication between them.
+ 
+
+What is the effect of designing a prototype on the overall cost of a software project?
+Prototyping may have some initial costs of developing, but it reduces the overall budget by helping your product to be free of the errors or glitches that could have occurred if the idea was made from scratch without any prior user testing. Furthermore, prototyping also helps to understand the intrinsic flaws, shortcomings and drawbacks that can be improved during the product development process. If the prototyping process is ignored completely, it might result in the restructuring and redesigning of the entire product after spending all your resources on its development. So, the effect of designing a prototype on the overall cost of a software project is to actually reduce the additional costs of restructuring and reframing it after its full-fledged development- which might cost a fortune. 
